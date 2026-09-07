@@ -1,8 +1,7 @@
 Neovim Tree Sitter support for Mindustry's MLog 
 
-I have no idea what I'm doing with this.
-
-Do not expect updates or support.
+This is for personal use.
+Do not expect updates or support of any kind.
 
 -- lazy.nvim example
 ```
